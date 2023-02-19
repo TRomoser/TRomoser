@@ -1,3 +1,5 @@
+<div class="begin-examples"></div>
+
 # 💫 About Me:
 As a full-stack software engineer with a passion for the logic and elegance of code, I am excited to bring my unique perspective and customer service skills to the world of software development. With my background in customer service, I understand the importance of creating a dynamic and positive user experience. I am eager to continue learning and growing as a developer, and I am confident that my unique blend of skills and experiences make me a strong candidate for any software development role. Whether it's troubleshooting technical issues or developing engaging and user-friendly applications, I am ready to take on new challenges and make a meaningful contribution to my clients and peers.<br><br><br>
 
